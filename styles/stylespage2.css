@@ -1,0 +1,23 @@
+body {
+    background: rgb(40, 43, 42);
+}
+
+body {
+    background:rgb(255,255,255);
+    background-image: url('../images/coworking_2.jpg');
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: cover;
+}
+
+.aboutuscontentor{
+    color: white;
+    text-align: center;
+    font-size: 30px;
+    width: 100%;
+    top: 5px;
+    display: block;
+    position: absolute;
+    -webkit-text-stroke: 0.7px;
+    -webkit-text-stroke-color: black;
+}
